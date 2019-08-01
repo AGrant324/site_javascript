@@ -1,0 +1,11 @@
+SuperChangeMode,Real,Test/Real
+SuperChangeTargetVersion,v1,v0/v1 etc
+SuperChangeSeq,javascript,
+,,
+$sectionsportname, $GLOBALS{'sport_name'},
+$sectionsportteamsize, $GLOBALS{'sport_teamsize'},
+$sectionsportsquadsize, $GLOBALS{'sport_squadsize'},
+$sectionsportofficialssize, $GLOBALS{'sport_officialssize'},
+$sectionsportofficialsname, $GLOBALS{'sport_officialsname'},
+$sectionsportresultunit, $GLOBALS{'sport_resultunit'},
+$sectionsportresulttext, $GLOBALS{'sport_resulttext'},
